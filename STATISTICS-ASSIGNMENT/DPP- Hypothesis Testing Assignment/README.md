@@ -11,7 +11,6 @@ This repository contains a **complete hypothesis testing assignment** implemente
 Hypothesis Testing Assignment/
 │
 ├── DA_Session_10_Hypothesis_testing_Assignment.ipynb
-├── Problem_Statements_DA_Session_10.pdf
 ├── README.md
 ```
 
