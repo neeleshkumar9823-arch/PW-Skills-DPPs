@@ -31,5 +31,4 @@ It is **not a tutorial repository**, but a structured collection of assignments.
 
 ## 👤 Author
 
-**Shivansh Yadav**  
-🔗 LinkedIn: https://www.linkedin.com/in/the-venom
+**Neelesh Kumar Pandey**  
