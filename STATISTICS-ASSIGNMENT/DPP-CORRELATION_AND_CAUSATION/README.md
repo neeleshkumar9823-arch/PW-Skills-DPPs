@@ -13,8 +13,6 @@ This repository contains a **complete Correlation and Causation assignment** imp
 ```
 
 DPP-CORRELATION_AND_CAUSATION/
-│
-├── CORRELATION_AND_CAUSATION_DPP_ASSIGNMENT.pdf
 ├── DA_Session_11_Correlation_causation_dpp.xlsx
 ├── README.md
 
@@ -62,7 +60,7 @@ This repository is intended **strictly for educational and learning purposes**.
 ---
 
 ### 👤 Author
-**Shivansh Yadav**  
+**Neelesh Kumar Pandey**  
 Data Analytics & Data Science  
 
 ---
