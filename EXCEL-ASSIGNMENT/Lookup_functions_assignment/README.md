@@ -95,5 +95,5 @@ Here are three approaches:
 ---
 
 ### Author
-Prepared by **Shivansh Yadav (Venom-Shivu)**  
+Prepared by **Neelesh Kumar Pandey**  
 Focus: Clarity, collaboration, and visual polish in technical learning.
