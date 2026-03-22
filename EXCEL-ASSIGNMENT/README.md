@@ -55,7 +55,7 @@ The purpose is simple: **demonstrate practical Excel skills for cleaning, analyz
 
 ## 👤 Author
 
-**Shivansh Yadav**
+**Neelesh Kumar Pandey**
 Focused on Excel dashboards, data visualization, and building clear, user-friendly analysis tools.
 
 ---
