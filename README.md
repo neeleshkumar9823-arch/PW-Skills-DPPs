@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/License-Fair%20Use-lightgrey" />
 </p>
 
-**Assignment-PW** is a **practice-focused repository** containing **Data Analytics assignments**, maintained by **Shivansh Yadav**.  
+**Assignment-PW** is a **practice-focused repository** containing **Data Analytics assignments**, maintained by **Neelesh Kumar Pandey**.  
 This repository documents **weekly and daily assignment work** completed as part of the **PW Skills curriculum** and personal practice.
 
 ⚠️ **Important Notice:**  
@@ -49,7 +49,5 @@ This repository exists **only for practice, revision, and portfolio demonstratio
 ---
 
 ## 👨‍💻 Author
-**Shivansh Yadav**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/the-venom)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/Venom-Shivu/Assignment-PW)
+**Neelesh Kumar Pandey**
+Data Analyst
