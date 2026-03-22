@@ -85,7 +85,7 @@ depending on the dataset — this is **expected and correct behavior**.
 
 ## 👤 Author
 
-👨‍💻 **Shivansh Yadav**  
+👨‍💻 **Neelesh Kumar Pandey**  
 📊 Aspiring Data Analyst / Data Scientist  
 
 ---
