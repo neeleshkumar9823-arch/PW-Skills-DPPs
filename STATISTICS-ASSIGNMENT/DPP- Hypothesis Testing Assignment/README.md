@@ -34,7 +34,7 @@ All problem statements used in this assignment are the **intellectual property o
 This repository is intended **strictly for educational and learning purposes**.
 
 ### 👤 Author
-**Shivansh Yadav**  
+**Neelesh Kumar Pandey**  
 Data Analytics & Data Science  
 
 ---
