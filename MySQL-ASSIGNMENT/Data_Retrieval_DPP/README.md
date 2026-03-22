@@ -80,7 +80,7 @@ No schema changes are made — this assignment is **read-only and analysis-focus
 
 ## 👤 Author
 
-👨‍💻 **Shivansh Yadav**
+👨‍💻 **Neelesh Kumar Pandey**
 📊 Aspiring Data Analyst / Data Scientist
 
 ---
