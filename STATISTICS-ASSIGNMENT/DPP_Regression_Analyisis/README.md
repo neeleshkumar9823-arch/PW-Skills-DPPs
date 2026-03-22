@@ -13,8 +13,6 @@ This repository contains a **complete Statistical Analysis assignment on Simple 
 ```
 
 Introduction_to_Regression_Analysis/
-│
-├── Introduction_to_regression_analysis_DPP.pdf
 ├── Introduction_to_regression_analysis_DPP.xlsx
 ├── README.md
 
@@ -72,7 +70,7 @@ This assignment is **academic, professional, and submission-ready**.
 ---
 
 ## 👤 Author
-**Shivansh Yadav**  
+**Neelesh Kumar Pandey**  
 Data Analytics & Data Science  
 
 ---
