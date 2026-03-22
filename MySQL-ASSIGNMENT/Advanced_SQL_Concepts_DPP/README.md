@@ -97,7 +97,7 @@ required for **Data Analyst and Data Science** entry-level roles.
 
 ## 👤 Author
 
-👨‍💻 **Shivansh Yadav**  
+👨‍💻 **Neelesh Kumar Pandey**  
 📊 Data Analyst / Aspiring Data Scientist  
 
 ---
