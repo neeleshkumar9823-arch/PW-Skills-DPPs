@@ -145,5 +145,5 @@ Each solution explains **why the formula is used** and the **criteria applied**.
 ---
 
 ### Author
-Prepared by **Shivansh Yadav (Venom-Shivu)**  
+Prepared by **Neelesh Kumar Pandey**  
 Focus: Clarity, collaboration, and visual polish in technical learning.
