@@ -13,7 +13,6 @@ The work is presented in **two formats** to clearly separate **conceptual unders
 
 DPP-Sampling-&-Sampling-Distributions/
 │
-├── DPP- Sampling_&*Sampling_Distributions.pdf
 ├── DPP- Sampling*&_Sampling_Distributions.ipynb
 └── README.md
 
@@ -65,8 +64,7 @@ For **educational and practice purposes only** (PwSkills – Data Analytics).
 
 ## 👤 Author
 
-**Shivansh Yadav**  
-🔗 LinkedIn: https://www.linkedin.com/in/the-venom  
+**Neelesh Kumar Pandey**    
 
 > *Optimization isn’t optional; it’s the difference between systems that scale and systems that fail.*
 
