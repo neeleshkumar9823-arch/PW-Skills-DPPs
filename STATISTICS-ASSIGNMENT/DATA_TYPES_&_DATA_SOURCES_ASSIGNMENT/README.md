@@ -78,5 +78,4 @@ It is **not intended for misuse or academic dishonesty**.
 
 ## 👤 Author
 
-**Shivansh Yadav**  
-🔗 LinkedIn: https://www.linkedin.com/in/the-venom
+**Neelesh Kumar Pandey**  
